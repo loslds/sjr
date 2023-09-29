@@ -3,7 +3,7 @@ import semimg from '../../assets/images/svgs/semimg.svg';
 import loginoff from '../../assets/images/svgs/loginbrcprt.svg';
 
 export const ContainerHeard = styled.div`
-  border: none; /*2px red solid;*/
+  border: 2px red solid;
   padding: 0px 0px 0px 0px;
   margin: 3px 0px 3px 3px;
   background: transparent;
