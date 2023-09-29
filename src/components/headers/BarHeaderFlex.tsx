@@ -1,6 +1,7 @@
 import React from 'react';
 import * as B from './styleHeader';
 
+
 type PropsBarHFlex = {
   children?: React.ReactNode | JSX.Element;
 };
