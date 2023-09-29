@@ -7,9 +7,9 @@ type PropsBarHFlex = {
 };
 const BarHeaderFlex: React.FC<PropsBarHFlex> = ({ children }) => {
   return (
-    <B.BarFlex>
+    <B.BarFlrFlex>
       {children}
-    </B.BarFlex>
+    </B.BarFlrFlex>
   );
 };
 export default BarHeaderFlex;
